@@ -6,7 +6,7 @@
     "email": "itskuldipkumark@gmail.com",
     "phone": "7018567190",
     "website": "https://kuldipkumark.github.io",
-    "summary": "I'm a SWE at Samsung Research & Development Institute, India- Delhi. I do code | collaborate | play football.",
+    "summary": "I'm a SWE at Samsung Research & Development Institute, India- Delhi.          I do code | read | play football.",
     "location": {
       "address": "",
       "postalCode": "201304",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "Full Stack",
+      "name": "Deep Learning",
       "keywords": [
         "MEAN",
         "Django",
@@ -55,10 +55,11 @@
       ]
     },
     {
-      "name": "Football",
+      "name": "Full Stack",
       "keywords": [
-        "Real madrid",
-        "champions league"
+        "MEAN",
+        "Django",
+        "Spring"
       ]
     }
   ],
