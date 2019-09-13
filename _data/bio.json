@@ -6,7 +6,7 @@
     "email": "itskuldipkumark@gmail.com",
     "phone": "7018567190",
     "website": "https://kuldipkumark.github.io",
-    "summary": "I'm a software engineer at Samsung Research & Development Institute, Delhi, India",
+    "summary": "I'm a SWE at Samsung Research & Development Institute, India- Delhi. I do code | collaborate | play football.",
     "location": {
       "address": "",
       "postalCode": "201304",
@@ -27,32 +27,38 @@
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "Kuldipk7",
+        "url": "https://twitter.com/Kuldipk7"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "_kuldipkumar",
+        "url": "https://www.instagram.com/_kuldipkumar/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Cloud Computing",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "aws",
+        "gcp",
+        "azure"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Full Stack",
       "keywords": [
+        "MEAN",
+        "Django",
+        "Spring"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Football",
       "keywords": [
+        "Real madrid",
+        "champions league"
       ]
     }
   ],
@@ -63,21 +69,19 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
+        "python",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Angular",
+        "Django"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Airflow",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
