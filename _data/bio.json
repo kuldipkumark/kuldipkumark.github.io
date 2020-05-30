@@ -6,7 +6,8 @@
     "email": "itskuldipkumark@gmail.com",
     "phone": "7018567190",
     "website": "https://kuldipkumark.github.io",
-    "summary": "I am a Software Engineer at Samsung R&D Institute. \nI do code | read | play football.",
+    "summary": "I am a Software Engineer at Samsung R&D Institute.",
+    "summary_newline": "I do code | read | play football",
     "location": {
       "address": "",
       "postalCode": "201304",
